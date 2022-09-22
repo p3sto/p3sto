@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm self-taught developer trying to take it further in college. I'm usually working on developing Paper plugins or experimental Minecraft server jars. I'm also an average enjoyer of CTFs and puzzles. 
+I'm self-taught developer trying to take my knowledge further in college. I'm usually working on developing Paper plugins or experimental Minecraft server jars. I also like gaming, chess, CTF's and puzzles. 
 
 </br></br>
 <div align="center">
