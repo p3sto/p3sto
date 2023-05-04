@@ -5,6 +5,6 @@ I'm self-taught developer trying to take my knowledge further in college. I'm us
 </br></br>
 <div align="center">
   
-![PestoNotPasta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devPesto&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+![devPesto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devPesto&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
 </div>
