@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm self-taught developer trying to take my knowledge further in college. I'm usually working on developing Paper plugins or experimental Minecraft server jars. I also like gaming, chess, CTF's and puzzles. 
+I'm a student studying Computer Science. I'm usually working on Minecraft stuff but sometimes infosec stuff too. 
 
 </br></br>
 <div align="center">
