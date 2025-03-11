@@ -5,6 +5,6 @@ I'm a student studying Computer Science. I'm usually working on Minecraft stuff 
 </br></br>
 <div align="center">
   
-![devPesto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devPesto&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+![devPesto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=p3sto&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
 </div>
